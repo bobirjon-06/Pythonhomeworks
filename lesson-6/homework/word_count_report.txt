@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 128
+Top 5 Words:
+and - 8
+his - 5
+the - 5
+a - 4
+in - 4
